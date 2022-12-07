@@ -4,21 +4,7 @@ refren-1.txt
 zwrotka-1.txt
 
 
-Kiedyś do ciebie wrócę
-Już bez żadnych złudzeń
-Lecz teraz idź precz ode mnie
-Nie szukaj mnie tu
-Dziś mnie nie będzie
-
-La, la, la, la, la
-La, la, la, la, la, la, la
-La, la, la, la, la, la, la, la, ah
-Ooh
-
-La, la, la, la, la
-La, la, la, la, la, la, la
-La, la, la, la, la, la, la, la, ah
-Ooh
+refren-2.txt
 
 
 Pięknie jest udawać śmiech
